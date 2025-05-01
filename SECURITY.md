@@ -1,1 +1,1 @@
-Refer to the [IETF Infrastructure and Services Vulnerability Disclosure](https://www.ietf.org/about/administration/policies-procedures/vulnerability-disclosure/) on how to disclose vulnerabilities in a secure manner.
+Refer to the [IETF Infrastructure and Services Vulnerability Disclosure](https://www.ietf.org/aborepo init --partial-clone --no-use-superproject -b android-latest-release -u https://android.googlesource.com/platform/manifestut/administration/policies-procedures/vulnerability-disclosure/) on how to disclose vulnerabilities in a secure manner.
